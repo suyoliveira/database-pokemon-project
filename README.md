@@ -3,13 +3,13 @@
 Repositório acadêmico dedicado ao desenvolvimento e à implementação de consultas analíticas avançadas utilizando MySQL, executadas em ambiente Laragon.
 
 ## 👥 Integrantes do Grupo
-* [
-Taislene da Silva Gonçalves
-Suyane Oliveira da Silva
-Isaque Miranda Cidade
-Antônio Marinho Neto
+*
+Taislene da Silva Gonçalves, 
+Suyane Oliveira da Silva, 
+Isaque Miranda Cidade, 
+Antônio Marinho Neto, 
 João Victor Araújo Jaguaribe
-]
+
 
 
 ## 📂 Estrutura do Repositório
